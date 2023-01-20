@@ -13,5 +13,6 @@ public class HolaDAM {
 
     public static void main(String[] args) {
         System.out.println("Hola a todos, soy Luis.");
+        System.out.println("Hola soy Enrique.");
     }
 }
